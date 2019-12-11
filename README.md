@@ -7,11 +7,11 @@ The dataset consists of customer reviews and multiple labels for different revie
 
 **Label counts**  
 
-![label counts]()
+![label counts](https://github.com/codeaway23/multilabel-classification-gensim-doc2vec/blob/master/plots/label_counts.png)
 
 **Number of reviews with multiple labels**  
 
-![multiple labels]()
+![multiple labels](https://github.com/codeaway23/multilabel-classification-gensim-doc2vec/blob/master/plots/multiple_label_ID_counts.png)
 
 ## Methodology
 
